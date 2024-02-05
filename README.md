@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm a software engineer student at TripleTen
+
+I'm currently learning javascript as part of my fullstack engineering bootcamp.
+I'm hoping to complete this bootcamp within the next 5-6 months and then pursue my master's degree in computer science.
+Originally I was a pilot and am now shifting careers over to something that has always interested me.
+
 
 <!--
 **beenue/beenue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
