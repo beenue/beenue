@@ -1,8 +1,20 @@
-### Hi there 👋 I'm a software engineer student at TripleTen
+<h1 align="center">Hi 👋, I'm Taylor Soffe</h1>
+<h3 align="center">An aspiring full stack software engineer</h3>
 
-I'm currently learning javascript as part of my fullstack engineering bootcamp.
-I'm hoping to complete this bootcamp within the next 5-6 months and then pursue my master's degree in computer science.
-Originally I was a pilot and am now shifting careers over to something that has always interested me.
+- 🔭 I’m currently working on [se_project_aroundtheus](https://github.com/beenue/se_project_aroundtheus)
+
+- 🌱 I’m currently learning **javascript and refining HTML / CSS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/beenue](https://github.com/beenue)
+
+- 📫 How to reach me **tjsoffe@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
 <!--
@@ -18,4 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf
 -->
